@@ -37,6 +37,7 @@
     "sass": "^1.26.5",
     "sass-loader": "^8.0.2",
     "sqlite3": "^5.0.0",
+    "vue-material-design-icons": "^4.11.0",
     "vue-template-compiler": "^2.6.11"
   },
   "gitHooks": {
