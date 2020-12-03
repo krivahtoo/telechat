@@ -6,7 +6,7 @@ Communicate with your website visitors via Telegram
 
 ## Preview
 
-![Screenshot](doc/screenshot.png)
+![Screenshot](docs/screenshot.png)
 
 ## Project setup
 
