@@ -69,10 +69,30 @@ export default {
   justify-content: flex-start;
   background-color: rgb(243, 243, 243);
   flex-shrink: 2;
-  overflow-y: auto;
+  overflow-y: hidden;
+  transition: ease-in overflow-y 1s;
 
   box-shadow:
     inset 0 2rem 2rem -2rem rgba(black, 0.05),
     inset 0 -2rem 2rem -2rem rgba(black, 0.05);
+
+  &:hover {
+    overflow-y: auto;
+    padding-right: 1px;
+  }
+
+  &::-webkit-scrollbar {
+    width: 5px;
+  }
+
+  &::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: rgba(11, 11, 40, 1);
+    border-radius: 10px;
+  }
 }
 </style>
