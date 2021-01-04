@@ -36,7 +36,7 @@
     "eslint-plugin-vue": "^6.2.2",
     "lint-staged": "^9.5.0",
     "nodemon": "^2.0.6",
-    "sass": "^1.26.5",
+    "sass": "^1.32.0",
     "sass-loader": "^8.0.2",
     "sqlite3": "^5.0.0",
     "vue-material-design-icons": "^4.11.0",
