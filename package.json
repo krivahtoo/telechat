@@ -37,7 +37,7 @@
     "lint-staged": "^9.5.0",
     "nodemon": "^2.0.6",
     "sass": "^1.26.5",
-    "sass-loader": "^8.0.2",
+    "sass-loader": "^10.1.1",
     "sqlite3": "^5.0.0",
     "vue-material-design-icons": "^4.11.0",
     "vue-template-compiler": "^2.6.11"
