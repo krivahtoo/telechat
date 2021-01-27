@@ -13,7 +13,7 @@
     "core-js": "^3.8.3",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "helmet": "^4.2.0",
+    "helmet": "^4.4.1",
     "moment": "^2.29.1",
     "socket.io": "^3.0.3",
     "telegraf": "^3.38.0",
